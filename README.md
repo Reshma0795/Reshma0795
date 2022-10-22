@@ -1,4 +1,4 @@
-### Hi, this is Reshma
+### Hi, my name is Reshma
 
 
 - I’m currently working on Data Science Projects
